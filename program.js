@@ -3,3 +3,7 @@ function getComputerChoice() {
     const randomIndex = Math.floor(Math.random() * options.length);
     return options[randomIndex];
 }
+
+function getHumanChoice() {
+    return prompt("rock/paper/scissors").toLowerCase();
+}
