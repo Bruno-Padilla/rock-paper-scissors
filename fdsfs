@@ -1,0 +1,35 @@
+[33mcommit 8539376da2d8ae990bbdcc828eac29c439739c27[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mrps-ui[m[33m, [m[1;31morigin/rps-ui[m[33m)[m
+Author: Brunniel <brunisdan5@gmail.com>
+Date:   Sat Jan 17 00:04:42 2026 -0600
+
+    html and css done
+
+[33mcommit 64b8e14f955fd3eab05268aabbad25694b53bd5b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Brunniel <brunisdan5@gmail.com>
+Date:   Sat Jan 10 23:41:43 2026 -0600
+
+    game done
+
+[33mcommit d9a65dbc7eb258b3f94a5d2c47ca92699e08ed83[m
+Author: Brunniel <brunisdan5@gmail.com>
+Date:   Sat Jan 10 23:06:03 2026 -0600
+
+    playRound function done
+
+[33mcommit b52dae30ae216342bfacbe8b84ff15dedc3006d2[m
+Author: Brunniel <brunisdan5@gmail.com>
+Date:   Sat Jan 10 22:44:21 2026 -0600
+
+    getHumanChoice done
+
+[33mcommit 7225b1a180f711023875de4ecfbaff72ece7d728[m
+Author: Brunniel <brunisdan5@gmail.com>
+Date:   Sat Jan 10 22:33:35 2026 -0600
+
+    getComputerChoice function done
+
+[33mcommit 707b73fce4bee2a16ac274bdd94f320b12722ca5[m
+Author: Brunniel <74790996+Bruno-Padilla@users.noreply.github.com>
+Date:   Sat Jan 10 21:33:41 2026 -0600
+
+    Initial commit
