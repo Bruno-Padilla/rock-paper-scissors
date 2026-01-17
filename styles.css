@@ -8,7 +8,6 @@ body {
 
 /* - - - Title - - - */
 .title {
-    border: 1px solid red;
     width: 100%;
     font-size: 70px;
     text-align: center;
@@ -17,7 +16,6 @@ body {
 
 /* - - - Hub - - - */
 .hub {
-    border: 1px solid red;
     padding: 10px;
     display: flex;
     justify-content: center;
@@ -26,19 +24,19 @@ body {
 }
 
 .hub .box {
-    border: 1px solid yellow;
     font-size: 50px;
     display: flex;
     flex-direction: column;
     align-items: center;
     gap: 20px;
     width: 250px;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
 }
 
 
 /* - - - Buttons - - - */
-.buttons {
-    border: 1px solid red;
+#buttons {
     margin-top: 50px;
     display: flex;
     justify-content: center;
@@ -46,7 +44,7 @@ body {
     flex-wrap: wrap;
 }
 
-.buttons .btn {
+#buttons .btn {
     border: 5px solid black;
     background-color: blue;
 }
