@@ -1,0 +1,52 @@
+/* - - - Body - - - */
+body {
+    background-color: #474973;
+    color: white;
+    font-family: sans-serif;
+}
+
+
+/* - - - Title - - - */
+.title {
+    border: 1px solid red;
+    width: 100%;
+    font-size: 70px;
+    text-align: center;
+}
+
+
+/* - - - Hub - - - */
+.hub {
+    border: 1px solid red;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 50px 250px;
+}
+
+.hub .box {
+    border: 1px solid yellow;
+    font-size: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    width: 250px;
+}
+
+
+/* - - - Buttons - - - */
+.buttons {
+    border: 1px solid red;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 50px 100px;
+    flex-wrap: wrap;
+}
+
+.buttons .btn {
+    border: 5px solid black;
+    background-color: blue;
+}
